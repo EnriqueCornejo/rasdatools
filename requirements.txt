@@ -5,3 +5,4 @@ rasdapy==0.0.4
 utils
 picogeojson
 affine
+georasters

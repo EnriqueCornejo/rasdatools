@@ -1,0 +1,77 @@
+{
+  "taxa": "all",
+  "scenario": "0",
+  "averagePercentProtectedStrict": 62.61466994477857,
+  "averagePercentProtectedAny": 81.08255135739796,
+  "speciesMeetingTargetProtectedAreaViaStrict": "15313",
+  "speciesMeetingTargetProtectedAreaViaAny": "22273",
+  "totalSpecies": "35022",
+  "percentSpeciesMeetingTargetProtectedAreaViaStrict": 43.72394494888927,
+  "percentSpeciesMeetingTargetProtectedAreaViaAny": 63.5971674947176
+}
+{
+  "taxa": "amphibians",
+  "scenario": "0",
+  "averagePercentProtectedStrict": 41.25612493861453,
+  "averagePercentProtectedAny": 63.36600627802237,
+  "speciesMeetingTargetProtectedAreaViaStrict": "1519",
+  "speciesMeetingTargetProtectedAreaViaAny": "2369",
+  "totalSpecies": "6417",
+  "percentSpeciesMeetingTargetProtectedAreaViaStrict": 23.67149758454106,
+  "percentSpeciesMeetingTargetProtectedAreaViaAny": 36.91756272401434
+}
+{
+  "taxa": "birds",
+  "scenario": "0",
+  "averagePercentProtectedStrict": 81.31705303485005,
+  "averagePercentProtectedAny": 91.88854837782085,
+  "speciesMeetingTargetProtectedAreaViaStrict": "6277",
+  "speciesMeetingTargetProtectedAreaViaAny": "8079",
+  "totalSpecies": "9987",
+  "percentSpeciesMeetingTargetProtectedAreaViaStrict": 62.8517072193852,
+  "percentSpeciesMeetingTargetProtectedAreaViaAny": 80.89516371282667
+}
+{
+  "taxa": "cacti",
+  "scenario": "0",
+  "averagePercentProtectedStrict": 38.91925293576666,
+  "averagePercentProtectedAny": 61.86417512340585,
+  "speciesMeetingTargetProtectedAreaViaStrict": "284",
+  "speciesMeetingTargetProtectedAreaViaAny": "494",
+  "totalSpecies": "1413",
+  "percentSpeciesMeetingTargetProtectedAreaViaStrict": 20.099079971691438,
+  "percentSpeciesMeetingTargetProtectedAreaViaAny": 34.961075725406936
+}
+{
+  "taxa": "conifers",
+  "scenario": "0",
+  "averagePercentProtectedStrict": 60.39573215426158,
+  "averagePercentProtectedAny": 81.26024826656752,
+  "speciesMeetingTargetProtectedAreaViaStrict": "235",
+  "speciesMeetingTargetProtectedAreaViaAny": "384",
+  "totalSpecies": "606",
+  "percentSpeciesMeetingTargetProtectedAreaViaStrict": 38.77887788778878,
+  "percentSpeciesMeetingTargetProtectedAreaViaAny": 63.366336633663366
+}
+{
+  "taxa": "mammals",
+  "scenario": "0",
+  "averagePercentProtectedStrict": 70.4185767693345,
+  "averagePercentProtectedAny": 84.37241262541036,
+  "speciesMeetingTargetProtectedAreaViaStrict": "2353",
+  "speciesMeetingTargetProtectedAreaViaAny": "3061",
+  "totalSpecies": "4420",
+  "percentSpeciesMeetingTargetProtectedAreaViaStrict": 53.23529411764706,
+  "percentSpeciesMeetingTargetProtectedAreaViaAny": 69.25339366515837
+}
+{
+  "taxa": "turtles",
+  "scenario": "0",
+  "averagePercentProtectedStrict": 64.52118305199332,
+  "averagePercentProtectedAny": 83.63452021908307,
+  "speciesMeetingTargetProtectedAreaViaStrict": "145",
+  "speciesMeetingTargetProtectedAreaViaAny": "195",
+  "totalSpecies": "289",
+  "percentSpeciesMeetingTargetProtectedAreaViaStrict": 50.173010380622834,
+  "percentSpeciesMeetingTargetProtectedAreaViaAny": 67.47404844290658
+}

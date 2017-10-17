@@ -1,0 +1,42 @@
+{
+  "taxa": "all-taxa",
+  "scenario": "0",
+  "speciesMeetingTargetProtectedAreaAny": "834",
+  "totalSpecies": "918"
+}
+{
+  "taxa": "amphibians",
+  "scenario": "0",
+  "speciesMeetingTargetProtectedAreaAny": "52",
+  "totalSpecies": "92"
+}
+{
+  "taxa": "birds",
+  "scenario": "0",
+  "speciesMeetingTargetProtectedAreaAny": "607",
+  "totalSpecies": "627"
+}
+{
+  "taxa": "cacti",
+  "scenario": "0",
+  "speciesMeetingTargetProtectedAreaAny": "1",
+  "totalSpecies": "1"
+}
+{
+  "taxa": "conifers",
+  "scenario": "0",
+  "speciesMeetingTargetProtectedAreaAny": "5",
+  "totalSpecies": "7"
+}
+{
+  "taxa": "mammals",
+  "scenario": "0",
+  "speciesMeetingTargetProtectedAreaAny": "160",
+  "totalSpecies": "180"
+}
+{
+  "taxa": "turtles",
+  "scenario": "0",
+  "speciesMeetingTargetProtectedAreaAny": "9",
+  "totalSpecies": "11"
+}
